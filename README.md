@@ -64,7 +64,23 @@ Because the dataset contains a small number of annual observations and is observ
 
 * **Regression results provide suggestive evidence rather than causal proof.** The regression model including Internet use and ICT service exports explained approximately 30.6% of the variation in youth unemployment. However, the analysis is based on only 15 usable annual observations and showed evidence of autocorrelation, requiring HAC-robust standard errors.
 
-Overall, the findings suggest that Nigeria's expansion in digital access has not translated straightforwardly into increased youth labour-force participation. The contrasting movements in participation and unemployment indicate that broader factors—including education, migration, demographic changes and labour-market conditions—may also influence youth economic participation.
+Overall, the findings suggest that Nigeria's expansion in digital access has not translated straightforwardly into increased youth labour-force participation. The contrasting movements in participation and unemployment indicate that broader factors including education, migration, demographic changes and labour-market conditions—may also influence youth economic participation.
+
+## Visualizations
+
+### Internet Use Trend
+![Internet Use Trend](visualizations/internet-use-trend.png)
+
+### Youth Labour-Force Participation
+![Youth Labour-Force Participation](visualizations/youth-labour-force-participation-trend.png)
+
+### Youth Unemployment
+![Youth Unemployment](visualizations/youth-unemployment-trend.png)
+
+### Internet Use and Youth Unemployment
+![Internet Use and Youth Unemployment](visualizations/internet-vs-youth-unemployment.png)
+
+
 ## Policy Implications
 
 The findings suggest that expanding digital access should be accompanied by investments that help young people convert access into economic opportunity.
